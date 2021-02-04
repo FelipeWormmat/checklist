@@ -1,0 +1,13 @@
+body {
+    padding-top: 70px; 
+}
+
+.table-hover {
+    background-color: white;
+    
+}
+
+thead {
+    background-color: lightslategray;
+}
+

@@ -1,0 +1,18 @@
+body {
+    padding-top: 70px; 
+}
+
+.s-scroll {
+    max-height: 350px;
+    overflow-y:auto;
+
+}
+
+.table-hover {
+    background-color: white;
+    
+}
+
+thead {
+    background-color: lightslategray;
+}
